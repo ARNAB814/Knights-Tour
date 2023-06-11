@@ -9,4 +9,4 @@ The objective of this project is to develop a game that allows players to explor
 Players will have the opportunity to control the knight's movements and strategize their way through the board, aiming to complete a successful
 tour.
 
-To play the game simply download Knights Tour.exe and run the file. You will need a Java time Environment to run this game.
+To play the game simply download Knights Tour.exe and run the file. You will need a Java runtime Environment to run this game.
