@@ -8,3 +8,5 @@ each square exactly once.
 The objective of this project is to develop a game that allows players to explore and solve the Knight's Tour problem on a virtual chessboard.
 Players will have the opportunity to control the knight's movements and strategize their way through the board, aiming to complete a successful
 tour.
+
+To play the game simply download Knights Tour.exe and run the file. You will need a Java time Environment to run this game.
